@@ -47,13 +47,6 @@ The notebook produces:
 
 For the bond sensitivity section, I used a real German Bund as a simple case study. This helped connect the market data analysis to a practical fixed income application through bond pricing, yield shocks, and duration.
 
-## Tools
-
-- Python
-- pandas
-- matplotlib
-- Google Colab
-
 ## How to Run
 
 1. Open the notebook in Google Colab
@@ -63,4 +56,7 @@ For the bond sensitivity section, I used a real German Bund as a simple case stu
 ## Project Motivation
 
 I built this project to strengthen both my Python skills and my understanding of euro fixed income markets, with a focus on practical market monitoring rather than overly complex quantitative modelling.
-Author : Joshua Lemiere Mac Douglas – Master in Finance Contact: Joshuamacdouglas@gmail.com
+
+## Author
+
+Joshua Lemiere Mac Douglas – Master in Finance Contact: Joshuamacdouglas@gmail.com
