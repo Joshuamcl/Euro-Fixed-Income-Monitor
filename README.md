@@ -63,3 +63,4 @@ For the bond sensitivity section, I used a real German Bund as a simple case stu
 ## Project Motivation
 
 I built this project to strengthen both my Python skills and my understanding of euro fixed income markets, with a focus on practical market monitoring rather than overly complex quantitative modelling.
+Author : Joshua Lemiere Mac Douglas – Master in Finance Contact: Joshuamacdouglas@gmail.com
